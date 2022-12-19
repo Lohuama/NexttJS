@@ -1,4 +1,4 @@
-const Page = () => {
+const EventPage = () => {
     return (
         <div>
             <h1>Our Single Event</h1>
